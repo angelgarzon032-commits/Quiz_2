@@ -7,3 +7,7 @@ Industria 4.0 es la cuarta revolución industrial, caracterizada por la integrac
 
 3.💕**PRUEBAS DE ACCESIBILIDAD**
 Las pruebas de accesibilidad (A11y) son un proceso para evaluar software, sitios web y aplicaciones y asegurar que puedan ser utilizados de manera efectiva por personas con diversas discapacidades (visuales, auditivas, motoras, cognitivas, etc.). Esto implica experimentar la aplicación desde la perspectiva del usuario, utilizando pruebas manuales, automatizadas y con usuarios reales, para identificar barreras y oportunidades de mejora.
+
+4. 👽**ENDPOINT**
+
+Un endpoint puede referirse a dos conceptos principales: un dispositivo físico (como una computadora o móvil) conectado a una red que sirve como punto de entrada y salida de datos, o a un punto de acceso a una API, que es una ubicación específica donde una aplicación puede interactuar con otra para solicitar o enviar información. La gestión de estos endpoints es crucial tanto para la seguridad, al proteger dispositivos contra amenazas, como para la funcionalidad, al permitir la comunicación entre sistemas a través de APIs.
