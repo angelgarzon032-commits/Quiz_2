@@ -1,3 +1,5 @@
 # Quiz_2
 1.🚲**MODAL**
 Un modal es una ventana o cuadro de dialogo que se superpone al contenido principla de una pagina o aplicacion. Bloquea la interacion con el resto de la interfaz hasta que se cierra, y se utiliza para confirmar acciones o solicitar informacion relevante. Ademas, un modal puede proporcionar informacion adicional o mostrar opciones perdonalizadas.
+2.😎**INDUSTRIA 4.0**
+Industria 4.0 es la cuarta revolución industrial, caracterizada por la integración de tecnologías avanzadas como la inteligencia artificial, Internet de las Cosas (IoT), Big Data, robótica avanzada y la automatización en los procesos industriales. Su objetivo es crear fábricas inteligentes y optimizar la producción mediante la digitalización
