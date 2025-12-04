@@ -9,9 +9,10 @@ Industria 4.0 es la cuarta revolución industrial, caracterizada por la integrac
 Las pruebas de accesibilidad (A11y) son un proceso para evaluar software, sitios web y aplicaciones y asegurar que puedan ser utilizados de manera efectiva por personas con diversas discapacidades (visuales, auditivas, motoras, cognitivas, etc.). Esto implica experimentar la aplicación desde la perspectiva del usuario, utilizando pruebas manuales, automatizadas y con usuarios reales, para identificar barreras y oportunidades de mejora.
 
 4. 👽**ENDPOINT**
-
 Un endpoint puede referirse a dos conceptos principales: un dispositivo físico (como una computadora o móvil) conectado a una red que sirve como punto de entrada y salida de datos, o a un punto de acceso a una API, que es una ubicación específica donde una aplicación puede interactuar con otra para solicitar o enviar información. La gestión de estos endpoints es crucial tanto para la seguridad, al proteger dispositivos contra amenazas, como para la funcionalidad, al permitir la comunicación entre sistemas a través de APIs.
 
 5.🤞**MARCA PERSONAL**
 La marca personal en software es la forma única y distintiva en que un profesional del software proyecta sus habilidades, experiencias y valores para diferenciarse en el mercado laboral, posicionándose como un referente valioso para empleadores, clientes y colaboradores. En este sector, esto implica mostrar y promocionar activamente conocimientos de programación, participación en proyectos relevantes, y una presencia en línea coherente que demuestre 
 
+6. 🔥 **MANTENIMIENTO CORRECTIVO**
+El mantenimiento correctivo en software es la reparación de errores y fallos que ocurren en una aplicación después de su lanzamiento, con el objetivo de restaurar la funcionalidad normal del software. Este tipo de mantenimiento es de naturaleza reactiva, ya que se activa cuando el problema ya se ha presentado, ya sea porque los usuarios lo reportan o porque el propio equipo de desarrollo lo detecta durante pruebas. Su propósito es corregir defectos en el diseño, la lógica o el código del software para garantizar su buen funcionamiento.
