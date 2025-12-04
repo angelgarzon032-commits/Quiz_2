@@ -11,3 +11,7 @@ Las pruebas de accesibilidad (A11y) son un proceso para evaluar software, sitios
 4. 👽**ENDPOINT**
 
 Un endpoint puede referirse a dos conceptos principales: un dispositivo físico (como una computadora o móvil) conectado a una red que sirve como punto de entrada y salida de datos, o a un punto de acceso a una API, que es una ubicación específica donde una aplicación puede interactuar con otra para solicitar o enviar información. La gestión de estos endpoints es crucial tanto para la seguridad, al proteger dispositivos contra amenazas, como para la funcionalidad, al permitir la comunicación entre sistemas a través de APIs.
+
+5. 🔥 **MANTENIMIENTO CORRECTIVO**
+
+El mantenimiento correctivo en software es la reparación de errores y fallos que ocurren en una aplicación después de su lanzamiento, con el objetivo de restaurar la funcionalidad normal del software. Este tipo de mantenimiento es de naturaleza reactiva, ya que se activa cuando el problema ya se ha presentado, ya sea porque los usuarios lo reportan o porque el propio equipo de desarrollo lo detecta durante pruebas. Su propósito es corregir defectos en el diseño, la lógica o el código del software para garantizar su buen funcionamiento.
