@@ -11,3 +11,7 @@ Las pruebas de accesibilidad (A11y) son un proceso para evaluar software, sitios
 4. 👽**ENDPOINT**
 
 Un endpoint puede referirse a dos conceptos principales: un dispositivo físico (como una computadora o móvil) conectado a una red que sirve como punto de entrada y salida de datos, o a un punto de acceso a una API, que es una ubicación específica donde una aplicación puede interactuar con otra para solicitar o enviar información. La gestión de estos endpoints es crucial tanto para la seguridad, al proteger dispositivos contra amenazas, como para la funcionalidad, al permitir la comunicación entre sistemas a través de APIs.
+
+5.🤞**MARCA PERSONAL**
+La marca personal en software es la forma única y distintiva en que un profesional del software proyecta sus habilidades, experiencias y valores para diferenciarse en el mercado laboral, posicionándose como un referente valioso para empleadores, clientes y colaboradores. En este sector, esto implica mostrar y promocionar activamente conocimientos de programación, participación en proyectos relevantes, y una presencia en línea coherente que demuestre 
+
