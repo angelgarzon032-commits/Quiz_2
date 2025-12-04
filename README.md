@@ -16,3 +16,6 @@ La marca personal en software es la forma única y distintiva en que un profesio
 
 6. 🔥 **MANTENIMIENTO CORRECTIVO**
 El mantenimiento correctivo en software es la reparación de errores y fallos que ocurren en una aplicación después de su lanzamiento, con el objetivo de restaurar la funcionalidad normal del software. Este tipo de mantenimiento es de naturaleza reactiva, ya que se activa cuando el problema ya se ha presentado, ya sea porque los usuarios lo reportan o porque el propio equipo de desarrollo lo detecta durante pruebas. Su propósito es corregir defectos en el diseño, la lógica o el código del software para garantizar su buen funcionamiento.
+
+7. 🤣 **CLOUD COMPUTING**
+Modelo de provisión de recursos de computación (servidores, almacenamiento, aplicaciones) a través de internet bajo demanda y pago por uso.
